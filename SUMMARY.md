@@ -1,4 +1,4 @@
-# Table of content
+# Inhaltsverzeichnis
 
 * [First Chapter](chapter1.md)
 * Second Chapter

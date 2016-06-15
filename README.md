@@ -1,4 +1,3 @@
-[TOC]
 
 # My Awesome Book
 

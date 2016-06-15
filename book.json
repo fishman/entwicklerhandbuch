@@ -2,5 +2,6 @@
     "plugins": [
         "add-header"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {},
+    "author": "Reza Jelveh <reza.jelveh@kvhh.de>"
 }
